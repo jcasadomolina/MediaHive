@@ -1,0 +1,15 @@
+{
+  "homepage": "https://jcasadomolina.github.io/MediaHive",
+  "name": "jcasadomolina.github.io",
+  "version": "1.0.0",
+  "description": "<h1 align=\"center\"> MediaHive</h1>",
+  "main": "index.js",
+  "scripts": {
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
